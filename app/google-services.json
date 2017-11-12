@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11830368752",
+    "firebase_url": "https://onlinemovies-d27ab.firebaseio.com",
+    "project_id": "onlinemovies-d27ab",
+    "storage_bucket": "onlinemovies-d27ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11830368752:android:add6298fcf10e044",
+        "android_client_info": {
+          "package_name": "checknrcformat.android.example.com.cinemaonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11830368752-4rl6f9di0j28sgsq9rbg22vdlrmhi5f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFgsJtsxXLZcA2c5VyEJbp_rxET249s2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
